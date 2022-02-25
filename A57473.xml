@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several epistles given forth by two of the Lords faithful servants whom he sent to New-England, to bear witness to His everlasting truth and were there (by the priests, rulers, and professors) after cruel and long imprisonment, and inhumane whippings and banishment, put to death, for no other cause, but for keeping the commandments of God, and testimony of Jesus, William Robinson, William Leddra here is also perfixed [sic] W.R. his testimony of his call to that service, for obedience unto which, he underwent the wrath of men, but hath obtained everlasting peace and rest with God.</title>
+            <author>Robinson, William, d. 1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57473</idno>
+            <idno type="STC">Wing R1722</idno>
+            <idno type="STC">ESTC R21104</idno>
+            <idno type="EEBO-CITATION">12049543</idno>
+            <idno type="OCLC">ocm 12049543</idno>
+            <idno type="VID">53121</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53121)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 577:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several epistles given forth by two of the Lords faithful servants whom he sent to New-England, to bear witness to His everlasting truth and were there (by the priests, rulers, and professors) after cruel and long imprisonment, and inhumane whippings and banishment, put to death, for no other cause, but for keeping the commandments of God, and testimony of Jesus, William Robinson, William Leddra here is also perfixed [sic] W.R. his testimony of his call to that service, for obedience unto which, he underwent the wrath of men, but hath obtained everlasting peace and rest with God.</title>
+                  <author>Robinson, William, d. 1659.</author>
+                  <author>Leddra, William, d. 1661.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robinson, William, d. 1659.</term>
+               <term>Society of Friends --  New England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53121:1"/>
+            <pb facs="tcp:53121:1"/>
+            <p>SEVERAL EPISTLES Given forth by Two of the LORDS Faithful Servants, Whom he ſent to <hi>NEW-ENGLAND,</hi> TO Bear Witneſs to his Everlaſting Truth.</p>
+            <p>And were there (by the Prieſts, Rulers, and Profeſſors) after cruel and long Impriſonment, and inhumane Whippings and Baniſhment, put to death; for no other Cauſe, but for keeping the Commandments of God, and Teſtimony of Jeſus.</p>
+            <list>
+               <item>
+                  <hi>William Robinſon.</hi>
+               </item>
+               <item>
+                  <hi>William Leddra.</hi>
+               </item>
+            </list>
+            <p>Here is alſo perfixed <hi>W. R.</hi> his Teſtimony of his Call to that Service, for obedience unto which, he under<g ref="char:EOLhyphen"/>went the wrath of Men, but hath obtained Everlaſting Peace and Reſt with God.</p>
+            <p>
+               <hi>And they overcame by the bloud of the Lamb, and the word of their Teſtimony, who loved not their lives unto the the death.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53121:2"/>
+            <pb n="3" facs="tcp:53121:2"/>
+            <head>
+               <hi>W. Robinſon</hi> his Teſtimony of his Call to that Service, for obedience un<g ref="char:EOLhyphen"/>to which he was by the Profeſſors of <hi>New-England</hi> put to Death.</head>
+            <p>ON the 8th of the 4th month, 1659. in the after-part of the day, in travelling betwixt <hi>Newport</hi> on <hi>Road-Iſland,</hi> and the houſe of <hi>Daniel Gold</hi> on the ſame <hi>Iſland,</hi> with my dear Brother <hi>Chriſtopher Holder;</hi> The Word of the Lord came expreſly unto me, which did fill me immediately with Life and Power, and heavenly Love, by which he conſtrained me, and com<g ref="char:EOLhyphen"/>manded me to paſs to <hi>Boſton,</hi> my life to lay down into his Will, for the accompliſhing his Service that he had there to perform, at the day appointed. To which heavenly Voice I preſently yielded obedience, not queſtioning the Lord how he would bring the thing to paſs, being I was a Child; and obedience was commanded of me by the Lord, who filled me with living ſtrength and power from his heavenly preſence, which at that time did mightily over-ſhad<g ref="char:EOLhyphen"/>dow me, and my Life did ſay <hi>Amen</hi> to what the Lord required of me, and had commanded me to do, and willingly was I given up from that time to this day, the will of the Lord God to do and to perform, whatever become of my body: for the Lord hath ſaid un<g ref="char:EOLhyphen"/>to me, My Soul ſhall reſt in eternal Peace, and my Life ſhall en<g ref="char:EOLhyphen"/>ter into Reſt for being obedient to the God of my Life; I being a Child, and durſt not queſtion the Lord in the leaſt, but rather wil<g ref="char:EOLhyphen"/>ling to lay down my life than to bring diſhonour to the Lord; and as the Lord made me willing, dealing kindly with me, as a tender Father doth towards a faithful Child whom he dearly loves, ſo did the Lord deal with me, in miniſtring his Life unto me, which gave and giveth me ſtrength to perform what the Lord required of
+<pb n="4" facs="tcp:53121:3"/>me, and ſtill as I did and do ſtand in need, he miniſtred and mini<g ref="char:EOLhyphen"/>ſtreth more vertue and heavenly power and wiſdom, whereby I was and am made ſtrong in God, not fearing what Man ſhall be ſuffer<g ref="char:EOLhyphen"/>ed to do unto me, being filled with heavenly Courage, which is Meekneſs and innocency; for the Cauſe is the Lords that we go in, and the Battel is the Lords; and thus ſaith the Lord of Hoſts, the mighty and terrible God, <hi>Not by might, nor by ſtrength, nor by power of mind, but by my Spirit,</hi> ſaith the Lord of Hoſt, <hi>will I perform what my mouth hath ſpoken through my Servants whom I have choſen, mize Elect in whom my Soul delighteth.</hi> Friends, the God of my Life, and the God of the whole Earth did lay this thing upon me, for which I now ſuffer bonds near unto death; He by his Almigh<g ref="char:EOLhyphen"/>ty Power and everlaſting Love, conſtrained me and laid this thing upon me, and truly I could not deny the Lord, much leſs reſiſt the Holy One of <hi>Iſrael.</hi> Therefore all People who are ignorant of the motion of the Lord in the inward parts, be not haſty in judg<g ref="char:EOLhyphen"/>ing in this matter, before you hear the truth of the matter, leſt you ſpeak evil of the things you know not: for of a truth the Lord God of the whole Earth commanded me by his Spirit, and ſpoke unto me by his Son, whom he hath made Heir of all things, and in his Life I live, and in it I ſhall depart this earthy tabernacle, if unmerciful men be ſuffered to take it from me; and herein I re<g ref="char:EOLhyphen"/>joyce that the Lord is with me, the Ancient of dayes, the Life of the ſuffering Seed, for which I am freely given up, and ſingly do I ſtand in the will of God; for me to live is Chriſt, but to die is gain: And truly, I have a great deſire and will to die herein, knowing that the Lord is with me, whatever ignorant men ſhall be able to ſay againſt me, for the witneſs of the Spirit I have recei<g ref="char:EOLhyphen"/>ved, and the preſence of the Lord and his heavenly Life, who hath accounted me worthy, and called me hereunto, to bear my Teſtimony againſt ungodly and unrighteous men, who ſeek to take away the life of the Upright without a cauſe, as the Rulers of the <hi>Maſſathuſs Bay</hi> doth intend, if the Lord ſtop them not from their unrighteous intent. — Oh! hear ye Rulers, and give ear and liſten all you that have any hand herein, to put the Innocent to death! for in the Name, and Fear, and Dread of the Lord God, I here declare the cauſe of my ſtaying here amongſt you, and con<g ref="char:EOLhyphen"/>tinuing
+<pb n="5" facs="tcp:53121:3"/>in your Juriſdiction after there was a Sentence of death (as ye ſaid) pronounced againſt me, without a juſt cauſe, as you well know; that we who are baniſhed, committed nothing worthy of baniſhment, not of any puniſhment, much leſs baniſhment upon death: And now, ye Rulers, ye do intend to put me to death with my Companion, unto whom the Word of the Lord God came ſay<g ref="char:EOLhyphen"/>ing, <hi>Go to</hi> Boſton <hi>with thy Brother</hi> William Robinſon: unto which Command he was obedient, who had ſaid unto him, that he had a great work for him to do: which thing is now ſeen, and the Lord is now doing of it, and it is in obedience to the Lord God of the whole Earth, that we continue amongſt you; and that we came to this Town of <hi>Boſton</hi> again in obedience to the Lord, the Creator of Heaven and Earth, in whoſe hand your breath is, and will ye put us to death for obeying the Lord God of the whole Earth? Well, if you do this act, and put us to death, know this, and be it known unto you all, ye Rulers and People within this Juriſdiction, whoſoever hath a hand herein, will be guilty of innocent bloud, not only upon your ſelves will you bring innocent bloud, but up<g ref="char:EOLhyphen"/>on this Town and the Inhabitants thereof, and elſewhere within your Juriſdiction that hath the leaſt hand herein; therefore be inſtructed ye Rulers of this Land, and take warning betimes, and learn wiſdom before it be hid from your eyes; And know this, if you put us to death, the Lord will ariſe in his fierce wrath againſt you, ye Rulers in this Land, ye ſhall not eſcape the judgments of the God of <hi>Iſrael,</hi> who will conſume you root and branch if you put us to death.</p>
+            <closer>
+               <signed>
+                  <hi>Written by one who feareth the Lord, who is by ignorant People called,</hi> A Quaker; <hi>and unto ſuch am I only known by the Name</hi> William Robinſon; <hi>yet a new Name I have recei<g ref="char:EOLhyphen"/>ved, which ſuch knows not.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:53121:4"/>
+            <head>Several Epiſtles given forth by Two of the Lords faithful Servants, whom he ſent to <hi>New-England,</hi> &amp;c.</head>
+            <p>THe ſtreams of my Fathers Love runs daily through me from the holy Fountain of Life, to the Seed throughout the whole Creation, I am overcome with love, for it is my life and the length of my dayes, it's my glory and my daily ſtrength, I am ſwallowed up with love, and in love I live, with it I am overcome, and in it I dwell with the holy Seed, to which the bleſſing of love is given from God who is Love, who hath ſhed it abroad in my heart, which daily fills me with living joy from the Life from whence it comes: Ye Children of the Living God, feel me when you are travelling in it, feel me when it runs from the Fountain into your Veſſels, when it iſſues gently like new Wine into your boſoms, when the ſtrength and power of it you feel, when you are overcome with the ſtrength of the Life, which is God, then feel me preſent in the Fountain of Love, the Houſe of Heaven, where is many Manſi<g ref="char:EOLhyphen"/>ons; ye Children of the Lord, feel me wrapt up with you in that pure Love which deſtroyes the love which is at emnity with God, which wars againſt the Seed; which pure Love proceeds from the Father of Love, the God of Truth, let nothing ſeparate you from this Love which is my Life; let neither words nor thoughts enter betwixt which is contrary to it, for it will ſtain the place of its a<g ref="char:EOLhyphen"/>bode. So dear Children, who are begotten by love into the Cove<g ref="char:EOLhyphen"/>nant of Life and Love, keep daily in it; this is the portion that God hath given unto his Children, to continue in his Love, which is the life of the Seed which is raiſed by the power of the endleſs Love of God in the Creature. I am full of the quickning power of the Lord Jeſus Chriſt, and my Lamp is filled with pure Oyl,
+<pb n="7" facs="tcp:53121:4"/>ſo that it gives a clear light and pleaſant ſmell, and I ſhall ente<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with my Beloved into Eternal Peace and Reſt, wherein I am ſwal<g ref="char:EOLhyphen"/>lowed up, with the Life of it I am filled, and in it I ſhall depart with everlaſting joy and praiſes in my mouth, ſinging Hallalujahs unto the Lord who hath Redeemed me by his Living Power from amongſt Kindreds, Tongues, and Nations. And now the day of my departure draweth near, I have fought a good Fight, I have kept the holy Faith, I have near finiſhed my Courſe, my travel<g ref="char:EOLhyphen"/>ling is near at an End, and my Teſtimony is near to be finiſhed, and an Eternal Crown is laid up for me, and for all whoſe feet are ſhod with Righteouſneſs and the preparation of Peace, even ſuch whoſe Names are written in the Book of Life, wherein I live and remain with all the faithful Seed for ever and ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Written by a Servant of Jeſus Christ.</hi> William Robinſon.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>
+               <hi>William Robinſon,</hi> a faithful Martyr, who was baniſhed upon pain of Death, and robbed and tortured with cruel Whipping, and after<g ref="char:EOLhyphen"/>wards Condemned to die with his fellow Sufferers, <hi>Marmaduke Stephenſon</hi> and <hi>Mary Dier,</hi> who, all three, hand in hand like innocent Lambs were led away, with the Souldiers guarding, and the Drums beating (that the People might not hear them ſpeak) to the place of Execution; where, by the Prieſts, Rulers, and Pro<g ref="char:EOLhyphen"/>feſſors they were cruelly murdered for the Word of God, and the Teſtimony of Jeſus: Two dayes before their death, this Salutation of his Love to his fellow Priſoners, proceeded from him as followeth:</head>
+            <p>MY dear Brethren and Siſters, to whom my love abounds, I am filled with pure love unto you all, dear Lambs, feel it in your own lives, and receive it into your own hearts as new O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l; for truly the fear of the Lord is our ſtrength, and the bleſſing of the Lord is our portion, which the Lord doth daily give unto us, bleſſed be his Name for ever. Oh! let us all keep in Lowlineſs,
+<pb n="8" facs="tcp:53121:5"/>and Holineſs, and Meekneſs, and tender Love one towards ano<g ref="char:EOLhyphen"/>ther, which is the Seal and Witneſs that the Lord is with us; where the Lord for ever keep us ſtaid on him to receive our daily bread, which ſatisfieth the hungry Soul. Dear Friends, Brethren and Siſters, this I am conſtrained to let you know how mightily the Love of the Lord our God abounds in my heart, and from my Life towards you all; it runs forth as a living ſtream, refreſhing the Spirit and Life within us all, and every one as you feel it, and according to your meaſures receive it into your hearts, to the re<g ref="char:EOLhyphen"/>freſhing and ſtrengthning of one another. Dear Lambs, I was the firſt that the Lord God our heavenly Father did lay this thing upon, for which I now ſuffer bonds near to death, from the firſt day until now, the weight of the thing was laid upon me from the Lord God, in obedience to his holy Will and Command, I gave up, in which obedience the Arm and Power of the Lord hath been and is with me to this day, and the thing which the Lord hath ſaid unto me from the beginning of it to this day, which ſtill remains with me, that my Life muſt accompliſh the thing, and by it muſt the powers of Darkneſs fall, and yet will they ſeek and labour to take it from me, and through much difficulty and buſtling will they be ſuffered, to the glory of our God, and to the rejoycing of the Elect. So my dear Brethren and Siſters, my Love and Life feel in your own hearts, for I am full unto you all in Heavenly Love, and my Life is ever with you; the Lord for ever keep us all as we are now, to the glory of his Name, <hi>Amen.</hi> This was I mo<g ref="char:EOLhyphen"/>ved to write unto you all, my dear Brethren and Siſters, my fellow Priſoners, that have any part or do partake with me herein. Your dear Brother, in Holy and Heavenly Joy, and true Love and Peace.</p>
+            <closer>
+               <signed>William Robinſon.</signed>
+               <dateline>
+                  <hi>Written in the Hole of the Condemned in</hi> Boſton <hi>Goal in</hi> New-England, <date>
+                     <hi>the Firſt day of the Week, being the 16th day of the 8th mon.</hi> 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:53121:5"/>
+            <head>
+               <hi>William Leddra,</hi> the laſt of the Four Martyrs that were murdered in <hi>Boſton:</hi> He for the Truths ſake was Priſoner under the hands of the cruel Profeſſors of <hi>New-Plimouth</hi> near a year, to the admiration of tender People, in a very open Priſon, where he lay, in an extream cold Winter without any fire, by which he might have been frozen to death, had not the Lord upheld: He after<g ref="char:EOLhyphen"/>wards coming to <hi>Boſton</hi> in <hi>New-England,</hi> where for being called a <hi>Quaker,</hi> he was by Prieſts and Rulers torn and tortured with cruel Whipping, and baniſhed on pain of Death, and kept cloſe Pri<g ref="char:EOLhyphen"/>ſoner almoſt a year, faſt chained to a Logg of Timber, from the hour of his coming into Priſon, till the very moment they led him forth to be murdered; and when they called him before the Judg<g ref="char:EOLhyphen"/>ment Seat to receive the Sentence of Death, the cruel Jaylor who would drag him by the hair of the head, ſometime lead him along through part of the Town, who in the ſilent Lamb-like patience followed him in Chains, bearing the Logg into their Judgment-Hall; this Lamb of Jeſus the very day before the Prieſts, Rulers, and Profeſſors murdered him, gave forth to all the Faithful, this enſuing Teſtimony for the Lord,</head>
+            <head type="sub">To the ſociety of the little Flock, Grace and Peace be multiplied.</head>
+            <p>MOſt dear and inwardly beloved, The ſweet influence of the Morning Star, like a Floud, diſtilling into my innocent Habitation, hath ſo filled me with the joy of the Lord in the beau<g ref="char:EOLhyphen"/>ty of Holineſs, that my Spirit is as if it did not inhabit a Taber<g ref="char:EOLhyphen"/>nacle of Clay, but is wholly ſwallowed up in the boſom of E<g ref="char:EOLhyphen"/>ternity from whence it had its being; Alas, alas, what can the wrath and ſpirit of man that luſteth to Envy, aggravated by the heat and ſtrength of the King of the Locuſts which came out of the Pit, do unto one that is hid in the Secret place of the Al<g ref="char:EOLhyphen"/>mighty, or unto them that are gathered under the healing wings of the Prince of Peace, under whoſe Armour of Life they ſhall be able to ſtand in the day of tryal, having on the Breaſtplate of Righteouſneſs, and the Sword of the Spirit, which is their wea<g ref="char:EOLhyphen"/>pon of War againſt Spiritual Wickedneſs, Principalities, and
+<pb n="10" facs="tcp:53121:6"/>Powers, and the Rulers of the Darkneſs of this World, both within and without? Oh! my beloved, I have waited as a Dove at the window of the Ark, and have ſtood ſtill in that Watch, which the Maſter of the Houſe did at his coming (without whom I could do nothing) reward with the fulneſs of his Love, wherein my heart did rejoyce, that I might in the Love and Life of God, ſpeak a few words unto you, ſealed with the Spirit of Promiſe, that the taſte thereof might be a ſavour of Life to your life, and a Teſtimony in you of my innocent death. And if I had been altogether ſilent, and the Lord had not opened my mouth unto you, yet he would have opened your hearts, and there have ſealed my Innocency with the ſtreams of Life, by which we are baptized into that body which is in God, with whom and in whoſe Pre<g ref="char:EOLhyphen"/>ſence there is Life, in which as you abide, you ſtand upon the pillar and ground of Truth; for the Life being the Truth, and the Way, go not one ſtep without it, leſt you ſhould compaſs a Mountain of ſin in the Wilderneſs: For unto every thing there is a ſeaſon, as the flowing of the Ocean doth fill every Creek and Branch thereof, and then retires again towards its own be<g ref="char:EOLhyphen"/>ing and ſulneſs, and leaves a ſavour behind it; So doth the Life and Virtue of God flow into every one of your hearts, whom he hath made partaker of his Divine Nature; and when it with<g ref="char:EOLhyphen"/>draws but a little, it leaves a ſweet ſavour behind it, that many can ſay, they are made clean through the Word that he hath ſpo<g ref="char:EOLhyphen"/>ken to them, in which innocent condition you may ſee what you are in the Preſence of God, and what you are without him. Therefore, my dear hearts, let the injoyment of the Life alone be your Hope, your Joy, and Conſolation; and let the Man of God flee thoſe things that would lead the Mind out of the Croſs, for then the ſavour of Life will be buried; And although that ſome may ſpeak of things that they received in the Life (as ex<g ref="char:EOLhyphen"/>periences) yet the Life being vailed, and the ſavour that it left behind, waſhed away by the freſh flouds of Temptations; the Condition that they did injoy in the Life, boaſted of by the Aiery thing, will be but as the Mauna that was gathered yeſterday, with<g ref="char:EOLhyphen"/>out either ſcent or ſavour: for it was only well with the Man while be was in the Life of Innocency; but being driven from the Preſence of the Lord into the Earth, what can he boaſt of? And
+<pb n="11" facs="tcp:53121:6"/>although you know theſe things, and many of you much more than I can ſay, yet for the Love and Zeal that I bear to the Truth and Honour of God, and the tender Deſires of my Soul to thoſe that are young, that they might read me in that from which I write, to ſtrengthen them againſt the Wiles of the ſubtile Ser<g ref="char:EOLhyphen"/>pent that b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guiled <hi>Eve;</hi> I ſay, ſtand in the Watch within, in the fear of the Lord, which is the very entrance of Wiſdom, and the ſtate where you are ready to receive the ſecrets of the Lord; hun<g ref="char:EOLhyphen"/>ger and thirſt patiently, be not weary, neither doubt; ſtand ſtill, and ceaſe from thy own working, and in due time thou ſhalt enter into thy Reſt, and thy Eyes ſhall behold thy Salvation, whoſe Teſtimonies are ſure and righteous altogether; let them be as a feal upon thy arm, and as jewels about thy neck, that o<g ref="char:EOLhyphen"/>thers may ſee what the Lord hath done for your Souls, confeſs him before men, yea, before the greateſt of his enemies, fear not what they can do to you; greater is He that is in you, than he that is in the World; for He will cloath you with Humility, and in the power of his Meekneſs you ſhall reign over all the rage of your Enemies in the favour of God, wherein as you ſtand in Faith, ye are the Salt of the Earth; for many ſeeing your good works may glorifie God in the day of their viſitation. Take heed of receiving that which you ſaw not in your Life, leſt you give ear to the Enemy; bring all to the Life, that they may be proved whether they are wrought in God. The love of the World, the luſt of the Fleſh, the luſt of the Eye, is without the Light, in the World; therefore poſſeſs your Veſſels in all Sanctification and Honour, and let your Eye look at the mark, He that hath called you, who is Holy; And if there be an eye that offends, pluck it out, and caſt it from you; let not the Temptation take hold, for if you do, it will keep from the favour of God, and that will be a ſad ſtate; for without Grace poſſeſs it, there is no aſſurance of Salvation: By Grace you are ſaved, and the witneſſing of it is ſufficient for you; To which I commend you all, my dear Friends, and in it remain,</p>
+            <closer>
+               <signed>Your Brother, <hi>William Leddra.</hi>
+               </signed>
+               <dateline>
+                  <hi>Boſton Goal,</hi> 
+                  <date>
+                     <hi>the 13th of the Firſt Month,</hi> 1661.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
